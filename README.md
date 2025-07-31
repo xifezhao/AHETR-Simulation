@@ -62,7 +62,7 @@ This experiment demonstrates how the AHETR protocol, by employing a "detect-and-
 
 **Output:** `experiment1_fidelity.pdf`
 
-![Experiment 1 Fidelity Plot Placeholder](experiment1_fidelity.png)
+![Experiment 1 Fidelity Plot Placeholder](experiment1_fidelity.pdf)
 *Figure 1: Efficacy of Heralded Error Transparency. The plot shows the final entanglement fidelity against physical gate error probability ($p_{err}$). The AHETR protocol (blue) maintains near-unity fidelity by detecting and discarding states with single-qubit errors, while the unprotected scheme's fidelity (red) collapses catastrophically.*
 
 ## Experiment 2: Dynamic Encoding Logic
@@ -71,7 +71,7 @@ This experiment validates the need for dynamic encoding by illustrating the perf
 
 **Output:** `experiment2_rate_crossover.pdf`
 
-![Experiment 2 Rate Crossover Plot Placeholder](experiment2_rate_crossover.png)
+![Experiment 2 Rate Crossover Plot Placeholder](experiment2_rate_crossover.pdf)
 *Figure 2: Performance Crossover of Encoding Modes. The entanglement generation rate for DV mode (orange) and Robust mode (violet) is plotted against link distance, showing a clear crossover point where optimal mode changes are necessary.*
 
 ## Contributing
